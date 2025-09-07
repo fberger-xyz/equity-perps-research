@@ -1,0 +1,250 @@
+{
+  "articles": [
+    {
+      "id": "aster-etf-2025",
+      "title": "Aster Launches 24/7 Stock Perpetual Contracts Trading",
+      "url": "https://www.etf.com/sections/news/aster-launches-247-stock-perpetual-contracts-trading-exposure-us-equities",
+      "category": "defi-dex",
+      "date": "2025-07-16",
+      "source": "ETF.com",
+      "platform": "Aster",
+      "key_features": {
+        "leverage": "50x",
+        "trading_hours": "24/7",
+        "oracle": "Pyth Network",
+        "custody": "non-custodial"
+      },
+      "assets": ["AAPL", "AMZN", "TSLA", "NVDA"],
+      "topics": ["stock perps", "DeFi", "24/7 trading", "high leverage"]
+    },
+    {
+      "id": "aster-ainvest-2025",
+      "title": "Aster Stock Perpetual Contracts (Alternative Coverage)",
+      "url": "https://www.ainvest.com/news/aster-launches-stock-perpetual-contracts-equities-2507-18/",
+      "category": "defi-dex",
+      "date": "2025-07-18",
+      "source": "AInvest",
+      "platform": "Aster",
+      "topics": ["permissionless", "Pyth integration", "TradFi bridge"]
+    },
+    {
+      "id": "aster-zycrypto-2025",
+      "title": "Aster 24/7 Trading Announcement",
+      "url": "https://zycrypto.com/aster-announces-24-7-stock-perpetual-contracts-trading-with-exposure-to-u-s-equities/",
+      "category": "defi-dex",
+      "date": "2025-07-01",
+      "source": "ZyCrypto",
+      "platform": "Aster",
+      "topics": ["decentralized access", "continuous trading"]
+    },
+    {
+      "id": "pancakeswap-stocks-2025",
+      "title": "PancakeSwap On-Chain Stock Perpetuals",
+      "url": "https://www.cryptopolitan.com/pancakeswap-tokenized-stocks-perp-contracts/",
+      "category": "defi-dex",
+      "date": "2025-08-06",
+      "source": "Cryptopolitan",
+      "platform": "PancakeSwap",
+      "chain": "BNB Chain",
+      "key_features": {
+        "leverage": "25x",
+        "trading_hours": "13:30-20:00 UTC",
+        "type": "synthetic",
+        "regulatory_approach": "non-tokenized"
+      },
+      "assets": ["AAPL", "AMZN", "TSLA"],
+      "topics": ["synthetic derivatives", "US market hours", "regulatory compliance"]
+    },
+    {
+      "id": "hyperliquid-craze-2025",
+      "title": "Understanding Crypto Perpetual Futures and Hyperliquid Craze",
+      "url": "https://medium.com/@nefture/understanding-crypto-perpetual-futures-and-the-hyperliquid-craze-7d1c8b413444",
+      "category": "defi-dex",
+      "date": "2025-01-01",
+      "source": "Medium",
+      "platform": "Hyperliquid",
+      "metrics": {
+        "market_share": "80%",
+        "daily_volume": "$8B",
+        "cumulative_volume": "$2.5T"
+      },
+      "topics": ["market dominance", "CEX-like performance", "deep liquidity"]
+    },
+    {
+      "id": "hyperliquid-tokenmetrics-2025",
+      "title": "How Hyperliquid is Redefining Decentralized Perpetuals",
+      "url": "https://www.tokenmetrics.com/blog/how-hyperliquid-is-redefining-decentralized-perpetuals-in-2025",
+      "category": "defi-dex",
+      "date": "2025-01-01",
+      "source": "TokenMetrics",
+      "platform": "Hyperliquid",
+      "key_features": {
+        "listing_model": "reverse auction",
+        "fee_burn": "97%",
+        "infrastructure": "L1 chain"
+      },
+      "topics": ["sustainable revenue", "L1 development", "institutional focus"]
+    },
+    {
+      "id": "hyperliquid-blockbyte-2025",
+      "title": "Hyperliquid: Redefining DeFi Derivatives",
+      "url": "https://www.ainvest.com/news/hyperliquid-redefining-defi-derivatives-unlocking-explosive-growth-2025-2509/",
+      "category": "defi-dex",
+      "date": "2025-09-02",
+      "source": "BlockByte",
+      "platform": "Hyperliquid",
+      "metrics": {
+        "market_share": "80%",
+        "monthly_volume": "$357B",
+        "architecture": "Hybrid L1-EVM"
+      },
+      "topics": ["institutional partnerships", "fee burning", "market dominance"]
+    },
+    {
+      "id": "build-hyperliquid-guide-2025",
+      "title": "How to Build Perpetual Futures Platform Like Hyperliquid",
+      "url": "https://www.antiersolutions.com/blogs/how-to-build-your-perpetual-futures-trading-platform-like-hyperliquid-in-2025/",
+      "category": "technical",
+      "date": "2025-08-01",
+      "source": "Antier Solutions",
+      "type": "implementation_guide",
+      "components": [
+        "chain selection",
+        "on-chain order book",
+        "matching engine",
+        "oracle integration",
+        "risk management",
+        "front-end",
+        "security audits"
+      ],
+      "topics": ["architecture", "implementation", "technical guide"]
+    },
+    {
+      "id": "defi-perps-comparison-2025",
+      "title": "DeFi Perpetuals Platforms Comparison",
+      "url": "https://defiprime.com/article/defi-perpetuals-platforms-comparison",
+      "category": "defi-dex",
+      "date": "2025-05-21",
+      "source": "DeFiPrime",
+      "platforms_covered": {
+        "Hyperliquid": "70% on-chain volume",
+        "Extended Exchange": "TradFi bridge (gold, S&P 500)",
+        "Lighter": "HFT-optimized",
+        "Ostium": "100-200x leverage on RWAs"
+      },
+      "topics": ["platform comparison", "market analysis", "RWA integration"]
+    },
+    {
+      "id": "perps-explained-21shares-2025",
+      "title": "Perps Explained - Hyperliquid and dYdX",
+      "url": "https://21shares.com/research/perps-explained-hyperliquid-dydx",
+      "category": "defi-dex",
+      "date": "2025-08-29",
+      "source": "21Shares Research",
+      "market_stats": {
+        "2025_volume": "$2.6T",
+        "hyperliquid_daily": "$8B"
+      },
+      "topics": ["educational", "market growth", "infrastructure improvements"]
+    },
+    {
+      "id": "tokenization-disruption-2025",
+      "title": "Tokenization of Equities & Perpetuals - Disruption Analysis",
+      "url": "https://medium.com/@sentora/tokenization-equities-perpetuals-disruption",
+      "category": "analysis",
+      "date": "2025-05-28",
+      "source": "Sentora/Medium",
+      "author": "Anthony DeMartino",
+      "impact_estimates": {
+        "revenue_shift": "$25-70B annually",
+        "market_potential": "$120T global equity"
+      },
+      "topics": ["market disruption", "tokenization", "prime broker impact"]
+    },
+    {
+      "id": "bitget-rwa-index-2025",
+      "title": "Bitget Rolls Out RWA Index Perpetuals",
+      "url": "https://www.financemagnates.com/cryptocurrency/bitget-rwa-index-perpetuals",
+      "category": "cefi",
+      "date": "2025-08-20",
+      "source": "Finance Magnates",
+      "platform": "Bitget",
+      "key_features": {
+        "type": "RWA Index",
+        "assets": ["TSLA Index", "NVDA Index"],
+        "leverage": "10x",
+        "trading_hours": "24/5",
+        "pricing": "xStocks aggregation"
+      },
+      "topics": ["centralized exchange", "RWA", "index perps"]
+    },
+    {
+      "id": "crypto-perps-us-debut-2025",
+      "title": "Crypto 'Perps': Why US Debut Is Edging Closer",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-16/crypto-perps-why-perpetual-futures-us-debut-is-edging-closer-under-trump",
+      "category": "cefi",
+      "date": "2025-06-16",
+      "source": "Bloomberg",
+      "focus": "regulatory",
+      "topics": ["US market entry", "institutional interest", "regulatory landscape"]
+    },
+    {
+      "id": "pdlp-arxiv-2025",
+      "title": "Perpetual Demand Lending Pools",
+      "url": "https://arxiv.org/abs/2502.06028",
+      "category": "academic",
+      "date": "2025-02-01",
+      "source": "arXiv",
+      "type": "research_paper",
+      "protocols_analyzed": ["Jupiter", "Hyperliquid", "GMX"],
+      "topics": ["capital efficiency", "arbitrage", "theoretical models", "dynamic parameterization"]
+    },
+    {
+      "id": "funding-rates-design-2025",
+      "title": "Designing Funding Rates for Perpetual Futures",
+      "url": "https://arxiv.org/abs/2506.08573",
+      "category": "academic",
+      "date": "2025-06-01",
+      "source": "arXiv",
+      "type": "research_paper",
+      "concepts": [
+        "path-dependent funding rates",
+        "replicating portfolios",
+        "price stability mechanisms"
+      ],
+      "topics": ["funding rate theory", "price alignment", "mathematical models"]
+    },
+    {
+      "id": "perpetuals-primer-2022",
+      "title": "A Primer on Perpetuals",
+      "url": "https://arxiv.org/abs/2209.03307",
+      "category": "academic",
+      "date": "2022-09-01",
+      "source": "arXiv",
+      "type": "foundational_paper",
+      "topics": ["continuous-time models", "funding structures", "replication strategies", "derivatives theory"]
+    }
+  ],
+  "metadata": {
+    "total_articles": 16,
+    "categories": {
+      "defi-dex": 10,
+      "cefi": 2,
+      "academic": 3,
+      "technical": 1,
+      "analysis": 1
+    },
+    "platforms": {
+      "Aster": 3,
+      "PancakeSwap": 1,
+      "Hyperliquid": 6,
+      "Bitget": 1,
+      "Multiple": 5
+    },
+    "date_range": {
+      "earliest": "2022-09-01",
+      "latest": "2025-09-02"
+    },
+    "last_updated": "2025-09-07"
+  }
+}
